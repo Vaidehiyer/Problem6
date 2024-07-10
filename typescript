@@ -1,0 +1,24 @@
+Script started on 2024-07-10 05:50:24+00:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="149" LINES="11"]
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ g++ Tester.cpp PrecondViolatedExcep.cpp -o FrontList
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ ./FrontList 
+
+Testing FrontListIsA:
+Testing insert and retrieve...
+Element inserted last: 50
+Testing remove and retrieve...
+Element at the front: 20
+
+Testing FrontListAsA:
+Testing insert and retrieve...
+Element inserted last: 50
+Testing remove and retrieve...
+Element at the front: 20
+
+Testing FrontListHasA:
+Testing insert and retrieve...
+Element inserted last: 50
+Testing remove and retrieve...
+Element at the front: 20
+[0;32m@Vaidehiyer [0m➜ [1;34m/workspaces/codespaces-blank [0m$ exit
+
+Script done on 2024-07-10 05:50:45+00:00 [COMMAND_EXIT_CODE="0"]
